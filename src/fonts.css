@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'passionbold';
+  src: url('./assets/fonts/passionone-regular-webfont.woff2') format('woff2'),
+  url('./assets/fonts/passionone-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'open_sansbold';
+  src: url('./assets/fonts/opensans-bold-webfont.woff2') format('woff2'),
+  url('./assets/fonts/opensans-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'open_sansextrabold';
+  src: url('./assets/fonts/opensans-extrabold-webfont.woff2') format('woff2'),
+  url('./assets/fonts/opensans-extrabold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
